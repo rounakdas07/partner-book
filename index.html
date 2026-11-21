@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#d83c17"><meta name="description" content="A prepared UK clinical-partner prospect list for WombWise. Evidence, public research contacts, shortlist and CSV export."><title>Partner Book — WombWise clinical research leads</title><link rel="stylesheet" href="styles.css"></head>
+<body>
+<a class="skip" href="#leads">Skip to leads</a>
+<header class="mast"><a class="wordmark" href="./"><span class="mark" aria-hidden="true">p</span> partner book<span class="edition">/ WombWise</span></a><div class="mast-right"><span class="local-label">Your shortlist stays in this browser</span><button id="how-button" class="text-button">How this works</button></div></header>
+<main>
+<section class="intro"><div><p class="eyebrow">PREPARED FOR WOMBWISE’S CLINICAL PARTNERS PROGRAMME</p><h1>Find your next<br class="small-break"> clinical partner.</h1><p id="intro-count" class="intro-copy">Screening UK research sites…</p></div><div class="intro-actions"><button id="export" class="primary" disabled>Export leads to CSV</button><a class="subtle" href="https://www.wombwise.co.uk/contact" target="_blank" rel="noopener noreferrer">Based on WombWise's partner plans</a></div></section>
+<section class="workspace" aria-label="Partner research workspace">
+<div class="directory">
+<nav class="tabs" aria-label="Lead lists"><button data-tab="recent" aria-pressed="true">Start here <span id="recent-count"></span></button><button data-tab="saved" aria-pressed="false">My shortlist <span id="saved-count"></span></button><button data-tab="all" aria-pressed="false">All leads <span id="all-count"></span></button></nav>
+<div class="filters"><label class="search"><span class="sr-only">Search teams, cities or studies</span><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg><input id="search" type="search" placeholder="Search a team, city or study" autocomplete="off"></label><label><span class="sr-only">Condition</span><select id="condition"><option value="">All conditions</option><option>Endometriosis</option><option>PCOS</option></select></label><label><span class="sr-only">Research experience</span><select id="signal"><option value="">Any experience</option><option>Wearable data</option><option>Symptoms / diaries</option><option>Observational study</option></select></label></div>
+<div class="list-meta"><label class="check"><input type="checkbox" id="routes"> Verified enquiry route</label><span id="result-count" aria-live="polite"></span></div>
+<div class="table-head" aria-hidden="true"><span>TEAM / ORGANISATION</span><span>WHY LOOK HERE</span><span>SAVE</span></div>
+<div id="leads" class="lead-list" tabindex="-1"><p class="loading">Loading the prepared shortlist…</p></div>
+<div class="directory-foot"><span>Ordered by relevant experience, recent records and contact route.</span><button class="text-button" id="sort-info">See the rules</button></div>
+</div>
+<aside id="detail" class="detail" aria-label="Selected lead"><p class="loading">Select a lead to see the evidence.</p></aside>
+</section>
+<footer><span>Built by <a href="https://github.com/rounakdas07" target="_blank" rel="noopener noreferrer">Rounak Das</a> · Independent project for WombWise</span><span id="snapshot"></span></footer>
+</main>
+<dialog id="methods"><div class="dialog-head"><h2>How this works</h2><button class="close" data-close="methods" aria-label="Close how this works">×</button></div><div id="method-content"></div></dialog>
+<dialog id="brief-dialog"><div class="dialog-head"><h2>Copy this partner brief</h2><button class="close" data-close="brief-dialog" aria-label="Close partner brief">×</button></div><p>Your browser couldn't copy automatically. Select the text below to copy it.</p><textarea id="brief-text" readonly aria-label="Partner brief"></textarea></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<noscript>This tool needs JavaScript. The complete screen is available in <a href="data/screening.csv">screening.csv</a>.</noscript>
+<script type="module" src="app.mjs"></script>
+</body></html>

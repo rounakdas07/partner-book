@@ -1,0 +1,25 @@
+{
+  "retrievedAt": "2026-11-21T22:08:30.635634+00:00",
+  "query": "Endometriosis OR \"Polycystic Ovary Syndrome\"",
+  "recordCount": 2042,
+  "requests": [
+    {
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Endometriosis+OR+%22Polycystic+Ovary+Syndrome%22&pageSize=1000&countTotal=true&format=json",
+      "sha256": "5f2ed05c6c332b2567d9541dc2173d3c881109c07a1bfe0e88f613ee706a032a",
+      "records": 1000
+    },
+    {
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Endometriosis+OR+%22Polycystic+Ovary+Syndrome%22&pageSize=1000&countTotal=true&format=json&pageToken=ZVNj7o2Elu8o3lpyU83-vqbumpOQJJxtZfmh2v0fkA",
+      "sha256": "a1a792438c0b9a292caf109d8db5e3023478b24198d7618d21ebf73f5504c0b9",
+      "records": 1000
+    },
+    {
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Endometriosis+OR+%22Polycystic+Ovary+Syndrome%22&pageSize=1000&countTotal=true&format=json&pageToken=ZVNj7o2Elu8o3lpyU83-vqbumpOQJJxrZfit2vwTkA",
+      "sha256": "f81b13657bee545e0d70b450e25dca66bdbc174e3507291999f33859d5284217",
+      "records": 42
+    }
+  ],
+  "api": "https://clinicaltrials.gov/api/v2/studies",
+  "source": "ClinicalTrials.gov",
+  "searchUrl": "https://clinicaltrials.gov/search?cond=Endometriosis%20OR%20%22Polycystic%20Ovary%20Syndrome%22"
+}

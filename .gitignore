@@ -1,0 +1,4 @@
+dist/
+data/registry-raw.json
+data/uk-raw.json
+__pycache__/

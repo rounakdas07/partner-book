@@ -1,0 +1,35 @@
+{
+  "edinburgh": {
+    "leadLine": "Smartwatches and symptom tracking in ENDO1000",
+    "reason": "ENDO1000 combines wearable measurements with repeated symptom reports. That makes this team a concrete place to explore independent validation of WombWise's wearable signals.",
+    "evidenceStudy": "NCT07240883",
+    "ask": "Ask whether a separately agreed validation study could compare WombWise's signals with longitudinal symptom measures. ENDO1000 already has its own app; establish what collaboration could add.",
+    "route": {"name":"Prof Thanasis Tsanas","role":"Digital health lead, EXPPECT","email":"athanasios.tsanas@ed.ac.uk","kind":"Academic research contact","url":"https://reproductive-health.ed.ac.uk/pelvic-pain/our-research","checked":"2026-11-21"},
+    "extraSource": {"label":"ENDO1000 project overview","url":"https://www.endo1000.com/about-the-project/"},
+    "fit": "Wearable validation"
+  },
+  "oxford": {
+    "leadLine": "Prospective pain-outcome research and an enquiry desk",
+    "reason": "Oxford's registered study follows pain outcomes around endometriosis surgery. Its research centre also publishes a general enquiry route, so there is a clear starting point for a validation discussion.",
+    "evidenceStudy": "NCT07313345",
+    "ask": "Ask the EndoCaRe team whether passive wearable measures would answer a useful question alongside their existing pain-outcome research.",
+    "route": {"name":"Oxford Endometriosis CaRe","role":"General research centre enquiries","email":"endocare@wrh.ox.ac.uk","kind":"Research enquiry desk","url":"https://www.wrh.ox.ac.uk/research/endocare-get-involved","checked":"2026-11-21"},
+    "fit": "Pain-outcome validation"
+  },
+  "birmingham": {
+    "leadLine": "PCOS phenotyping and a business collaboration team",
+    "reason": "DAISy-PCOS brings together clinical phenotyping and metabolic measurements. Birmingham publishes a business route for collaborative research, which could connect WombWise to the relevant PCOS investigators.",
+    "evidenceStudy": "NCT03911297",
+    "ask": "Ask the business engagement team for an introduction to PCOS researchers interested in evaluating wearable signals alongside clinical phenotyping.",
+    "route": {"name":"Business Engagement and Research Impact","role":"University of Birmingham","email":"businessteam@contacts.bham.ac.uk","kind":"Industry collaboration desk","url":"https://www.birmingham.ac.uk/collaborate/contact","checked":"2026-11-21"},
+    "fit": "PCOS research partnership"
+  },
+  "chelsea": {
+    "leadLine": "Endometriosis studies with a verified NHS research route",
+    "reason": "The Trust appears in recent endometriosis study records. Its research office explicitly supports outside researchers and sponsors with feasibility and study setup.",
+    "evidenceStudy": "NCT07114081",
+    "ask": "Ask Research & Development to route a short wearable-validation proposal to the endometriosis team and clarify the feasibility process.",
+    "route": {"name":"Research & Development","role":"Chelsea and Westminster NHS Foundation Trust","email":"chelwest.research@nhs.net","kind":"NHS research operations","url":"https://www.chelwest.nhs.uk/about-us/research-innovation-and-quality-improvement-riqi/research-development/researchers","checked":"2026-11-21"},
+    "fit": "NHS validation site"
+  }
+}

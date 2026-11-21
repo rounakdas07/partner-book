@@ -1,0 +1,86 @@
+{
+  "edinburgh": [
+    "Edinburgh endometriosis research",
+    "Edinburgh",
+    [
+      "Royal Infirmary of Edinburgh",
+      "University of Edinburgh",
+      "Centre for Reproductive Health, Institute for Regeneration and Repair, University of Edinburgh",
+      "Institute for Regeneration and Repair, University of Edinburgh and Royal Infirmary of Edinburgh"
+    ]
+  ],
+  "oxford": [
+    "Oxford EndoCaRe & reproductive health",
+    "Oxford",
+    [
+      "NDOG, University of Oxford",
+      "Oxford University Hospitals Foundation Trust",
+      "University of Oxford",
+      "John Radcliffe Hospital",
+      "Nuffield Department Women's and Reproductive Health"
+    ]
+  ],
+  "birmingham": [
+    "Birmingham PCOS research",
+    "Birmingham",
+    [
+      "Institute of Metabolism and Systems Research",
+      "Wellcome Trust Clinical Research Facility"
+    ]
+  ],
+  "chelsea": [
+    "Chelsea and Westminster",
+    "London",
+    [
+      "Chelsea and Westminster Hospital NHS Foundation Trust",
+      "Chelsea and Westminster NHS Foundation Trust"
+    ]
+  ],
+  "hull": [
+    "Hull diabetes & endocrinology research",
+    "Hull",
+    [
+      "Michael White Centre for Diabetes and Endocrinology",
+      "Hull University Teaching Hospitals NHS Trust",
+      "Hull University Teaching Hospitals NHS Trust, Academic diabetes, Endocrinology and metabolism",
+      "Hull & East Yorkshire Hospitals NHS Trust"
+    ]
+  ],
+  "sheffield": [
+    "Sheffield Teaching Hospitals",
+    "Sheffield",
+    [
+      "Academic Unit of Reproductive and Developmental Medicine, Jessop Wing, Tree Root Walk",
+      "Royal Hallamshire Hospital",
+      "Sheffield Teaching Hospitals NHS Trust, Jessop Wing",
+      "Jessop Wing, Sheffield Teaching Hospitals NHS Foundation Trust"
+    ]
+  ],
+  "liverpool": [
+    "Liverpool Women's Hospital",
+    "Liverpool",
+    [
+      "Liverpool Women Hospital",
+      "Liverpool Womens Hospital"
+    ]
+  ],
+  "norwich": [
+    "Norfolk and Norwich University Hospitals",
+    "Norwich",
+    [
+      "Norfolk and Norwich Hospital",
+      "Norfolk and Norwich University Hospital - Norfolk and Norwich University Hospitals NHS Foundation Trust"
+    ]
+  ],
+  "accellacare": [
+    "Accellacare UK research sites",
+    "Multiple UK cities",
+    [
+      "Accellacare Yorkshire",
+      "Accellacare Northamptonshire",
+      "Accellacare Warwickshire",
+      "Accellacare North London",
+      "Accellacare South London"
+    ]
+  ]
+}
